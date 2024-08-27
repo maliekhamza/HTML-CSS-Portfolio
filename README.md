@@ -1,6 +1,6 @@
 Responsive Portfolio Website Alexa
 
-Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+Responsive Personal Portfolio Website Using HTML CSS 
 
 Smooth scrolling in each section.
 
